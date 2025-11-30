@@ -1,5 +1,5 @@
 from almalinux:9
-ENV COURSE ="DOCKER" \
+ENV COURSE="DOCKER" \
     TRAINER="MARY" \
     DURATION="10HRS"
 CMD ["sleep","1000"]
